@@ -1,0 +1,6 @@
+.productCard{
+    height: 80%;
+    max-width: 1150px;
+    margin: 50px auto;
+    display: flex;
+}
