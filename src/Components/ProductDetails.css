@@ -14,7 +14,7 @@ p{
     width: 80%;
     margin-top: 40px;
     margin-left: 40px;
-    margin-bottom:20px;
+    margin-bottom:30px;
     font-size: 20px;
    
     
@@ -22,21 +22,31 @@ p{
 }
 .buttons{
    display: flex;
-   width: 80%;
+   
+   width: 60%;
+   height: 2rem;
    margin: auto;
    border: 1px solid white;
+   gap: 60px;
+  
+   
 
   
 }
-button{
-    width: 90px;
-    margin-right: 50px;
+#shopNow{
+    width: 30%;
+    /* height: 2rem; */
+    margin-right: 10px;
     height: 30px;
     color: white;
-    background-color: rgb(248, 38, 38);
+     background-color: rgb(248, 38, 38);
+   
 }
 #category{
     background-color: white;
-    width: 100%;
+    /* opacity: 0.6; */
+    width: 40%;
+    /* margin-left: 40px; */
     border-radius: none;
+    color: black;
 }
