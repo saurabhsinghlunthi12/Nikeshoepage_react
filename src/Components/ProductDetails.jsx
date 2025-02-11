@@ -4,8 +4,8 @@ import "./ProductDetails.css"
 const ProductDetails = () => {
   return (
     <div className='detailsProd'>
-        <h1>Your Feet Deserves The Best</h1>
-        <p>Your Feet Deserves the best and we're here to help you with our shoes.
+        <h1 align='left'>Your Feet Deserves The Best</h1>
+        <p align='left'>Your Feet Deserves the best and we're here to help you with our shoes.
             Your Feet Deserves the best and we're here to help you with our shoes.
         </p>
         <div className="buttons">

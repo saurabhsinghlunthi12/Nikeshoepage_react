@@ -3,7 +3,7 @@
     height: 60px;
     display: flex;
     font-size: 1.2em;
-    margin-left: 100px;
+    margin:auto;
     margin-top: 10px;
     /* margin-bottom: 30px; */
     justify-content: space-between;
@@ -20,7 +20,7 @@
     justify-content: space-evenly;
     width: 20%;
     gap: 10px;
-    margin-left: 5px;
+    /* margin-left: 10px; */
     margin-bottom: 20px;
 
     
@@ -31,7 +31,7 @@ button,.navLinks,.logo:hover{
 .loginBtn{
     width: 8%;
     height: 50%;
-    margin-left: 160px;
+    /* margin-left: 90px; */
     margin-right: 20px;
     background-color: rgb(248, 38, 38);
     color:white;

@@ -13,7 +13,7 @@ h1{
 p{
     width: 80%;
     margin-top: 40px;
-    margin-left: 40px;
+    /* margin-left: 40px; */
     margin-bottom:30px;
     font-size: 20px;
    
@@ -25,7 +25,7 @@ p{
    
    width: 60%;
    height: 2rem;
-   margin: auto;
+   /* margin: auto; */
    border: 1px solid white;
    gap: 60px;
   
